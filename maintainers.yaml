@@ -7,85 +7,22 @@ maintainers:
   - project_id: "istio"
     org: "istio"
     teams:
-      - name: "maintainers"
+      - name: "maintainers" 
+        # Steering Committee members are entitled to interact with the CNCF on behalf of Istio.
         members:
-          - ameer00
           - craigbox
-          - rcernich
-          - irisdingbj
-          - cetezadi
-          - idouba
           - howardjohn
-          - kfaseela
-          - thisisnotapril
-          - justinpettit
-          - christian-posta
-          - ctrath
           - hzxuzhonghu
-          - therealmitchconnors
-          - nrjpoddar
-          - louiscryan
-          - linsun
-          - ericvn
-          - ramaraochavali
-          - jacob-delgado
-          - stevenctl
-          - lei-tang
-          - shankgan
-          - costinm
-          - Monkeyanator
-          - esnible
-          - liminw
-          - lizan
-          - GregHanson
-          - zirain
-          - adiprerepa
-          - amjain-vmware
-          - andream12345
-          - aryan16
-          - bianpengyuan
-          - chaodaig
-          - chases2
-          - cjwagner
-          - davidhauck
-          - dgn
-          - dhawton
-          - didier-grelin
-          - fjglira
-          - frankbu
-          - hanxiaop
-          - incfly
+          - jack4it
           - jaellio
-          - JimmyCYJ
-          - jjtischer
-          - john-a-joyce
-          - johnma14
-          - jwendell
-          - kebe7jun
           - keithmattix
-          - kyessenov
-          - lambdai
-          - lgadban
-          - listx
+          - kfaseela
+          - linsun
+          - louiscryan
+          - rcernich
           - Stevenjin8
-          - litong01
-          - mandarjog
-          - morvencao
-          - my-git9
-          - myidpt
-          - nmittler
-          - ostromart
-          - pmerrison
-          - richardwxn
-          - rootsongjc
-          - rvennam
-          - stewartbutler
-          - windsonsea
-          - wilsonwu
-          - Xunzhuo
-          - yangminzhu
-          - zhlsunshine
-          - krinkinmu
+          - tjons
+          - ZackButcher
       # Unmanaged teams: teams with "managed: false" are tracked in this
       # file for documentation but are excluded from CNCF resource
       # provisioning (mailing lists, service desk, Copilot seats, etc).
