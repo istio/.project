@@ -9,21 +9,14 @@ maintainers:
     teams:
       - name: "maintainers"
         members:
-          - ameer00
           - craigbox
           - rcernich
           - irisdingbj
-          - cetezadi
-          - idouba
           - howardjohn
           - kfaseela
-          - thisisnotapril
           - justinpettit
-          - christian-posta
-          - ctrath
           - hzxuzhonghu
           - therealmitchconnors
-          - nrjpoddar
           - louiscryan
           - linsun
           - ericvn
@@ -31,61 +24,42 @@ maintainers:
           - jacob-delgado
           - stevenctl
           - lei-tang
-          - shankgan
           - costinm
-          - Monkeyanator
-          - esnible
-          - liminw
-          - lizan
-          - GregHanson
           - zirain
-          - adiprerepa
-          - amjain-vmware
           - andream12345
-          - aryan16
-          - bianpengyuan
-          - chaodaig
-          - chases2
-          - cjwagner
-          - davidhauck
           - dgn
           - dhawton
           - didier-grelin
           - fjglira
-          - frankbu
           - hanxiaop
-          - incfly
           - jaellio
-          - JimmyCYJ
           - jjtischer
-          - john-a-joyce
-          - johnma14
           - jwendell
           - kebe7jun
           - keithmattix
           - kyessenov
-          - lambdai
-          - lgadban
-          - listx
           - Stevenjin8
-          - litong01
-          - mandarjog
-          - morvencao
           - my-git9
-          - myidpt
-          - nmittler
-          - ostromart
           - pmerrison
-          - richardwxn
-          - rootsongjc
-          - rvennam
-          - stewartbutler
           - windsonsea
           - wilsonwu
           - Xunzhuo
-          - yangminzhu
-          - zhlsunshine
           - krinkinmu
+          - Andygol
+          - Arhell
+          - blancobrenden
+          - calikonur
+          - ilrudie
+          - josunect
+          - mkralik3
+          - PetrMc
+          - psbrar99
+          - sridhargaddam
+          - sschepens
+          - yannuil
+          - jack4it
+          - tjons
+          - ZackButcher
       # Unmanaged teams: teams with "managed: false" are tracked in this
       # file for documentation but are excluded from CNCF resource
       # provisioning (mailing lists, service desk, Copilot seats, etc).
