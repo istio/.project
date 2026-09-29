@@ -1,3 +1,3 @@
 # CODEOWNERS for .project metadata repository
-# Changes to project metadata require maintainer review.
-* @ameer00 @craigbox @rcernich @irisdingbj @cetezadi @idouba @howardjohn @kfaseela @thisisnotapril @justinpettit @christian-posta @ctrath @hzxuzhonghu @therealmitchconnors @nrjpoddar @louiscryan @linsun @ericvn @ramaraochavali @jacob-delgado @stevenctl @lei-tang @shankgan @costinm @Monkeyanator @esnible @liminw @lizan @GregHanson @zirain @adiprerepa @amjain-vmware @andream12345 @aryan16 @bianpengyuan @chaodaig @chases2 @cjwagner @davidhauck @dgn @dhawton @didier-grelin @fjglira @frankbu @hanxiaop @incfly @jaellio @JimmyCYJ @jjtischer @john-a-joyce @johnma14 @jwendell @kebe7jun @keithmattix @kyessenov @lambdai @lgadban @listx @Stevenjin8 @litong01 @mandarjog @morvencao @my-git9 @myidpt @nmittler @ostromart @pmerrison @richardwxn @rootsongjc @rvennam @stewartbutler @windsonsea @wilsonwu @Xunzhuo @yangminzhu @zhlsunshine @krinkinmu 
+# Changes to project metadata require Steering Committee review.
+* @istio/steering-committee
