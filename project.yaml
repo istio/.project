@@ -29,7 +29,7 @@ repositories: # TODO: AUTO-DETECTED primary — please verify
 
 website: "https://istio.io/"
 
-artwork: "https://landscape.cncf.io/logos/istio.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/istio"
 
 # TODO: Add ADOPTERS.md if your project tracks adopters
 # adopters:
